@@ -1,5 +1,5 @@
 <h1 align="center">Работы с конкурсов на Kaggle</h1>
-<p align="center"><img src='https://www.kaggle.com/static/images/site-logo.svg' width="400" height="200"></p>
+<p align="center"><img src='https://miro.medium.com/max/650/1*zFnlWAK1wIGZmkTBUHoplA.png' width="400" height="200"></p>
 
 Все проекты выполнены в *Jupiter Notebook*, датасеты не приложены, выложены готовые работы. 
 
