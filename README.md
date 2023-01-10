@@ -5,9 +5,9 @@
  
 Ссылки на соревнования представлены ниже и в самих работах.
 
-| **Проект** | **Описание** | **Ссылка на соревнование** |
-| -------------------- | --------------------- |---------------------------|
-| [01. Предсказать, кому отправить СМС, чтобы склонить к покупке](https://github.com/Kholmogorovaaa/Kaggle/tree/main/Shift_uplift) | Предстоит из всех test-клиентов указать вероятность того, что клиент купит только при коммуникации (не купит без нее) | [ШИФТ Курс "Аплифт"](https://www.kaggle.com/competitions/uplift-shift-23) |
-| [02. Titanic. Survived model.](https://github.com/Kholmogorovaaa/Kaggle/tree/main/Titanic_kaggle) | Создаем модель, которая предсказывает, какие пассажиры выжили после кораблекрушения Титаника. | [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview) |
+| **Проект** | **Описание** | **Ссылка на соревнование** | **Ссылка на тетрадь kaggle** |
+| -------------------- | --------------------- |---------------------------|---------------------------|
+| [01. Предсказать, кому отправить СМС, чтобы склонить к покупке](https://github.com/Kholmogorovaaa/Kaggle/tree/main/Shift_uplift) | Предстоит из всех test-клиентов указать вероятность того, что клиент купит только при коммуникации (не купит без нее) | [ШИФТ Курс "Аплифт"](https://www.kaggle.com/competitions/uplift-shift-23) |[notebook kaggle](https://www.kaggle.com/code/kholmogorovaaa/09012023) |
+| [02. Titanic. Survived model.](https://github.com/Kholmogorovaaa/Kaggle/tree/main/Titanic_kaggle) | Создаем модель, которая предсказывает, какие пассажиры выжили после кораблекрушения Титаника. | [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview)|[notebook kaggle](https://www.kaggle.com/code/kholmogorovaaa/titanic) |
 
 **P.S. Репозиторий пополняется.** 
