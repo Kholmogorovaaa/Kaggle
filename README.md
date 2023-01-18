@@ -13,3 +13,7 @@
 | [04. Предсказать, кому отправить СМС, чтобы склонить к покупке](https://github.com/Kholmogorovaaa/Kaggle/tree/main/Shift_uplift) | Предстоит из всех test-клиентов указать вероятность того, что клиент купит только при коммуникации (не купит без нее) | [ШИФТ Курс "Аплифт"](https://www.kaggle.com/competitions/uplift-shift-23) |[notebook kaggle](https://www.kaggle.com/code/kholmogorovaaa/09012023) | Завершен |<p align="center"><img src='https://www.kaggle.com/static/images/medals/competitions/bronzel@2x.png' width="35" height="35"></p>|
 
 **P.S. Репозиторий пополняется.**
+
+**Холмогорова Алёна**  
++79655043458  связь через WhatsApp и Telegram  
+y.holms@yandex.ru  
